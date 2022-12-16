@@ -18,7 +18,7 @@ int hitungPajak(int total2){
 void pilihan_menu(){
     cout<<"\n****************************************************************************************"<<endl;
     cout<<"                          DAFTAR MENU HARGA MAKANAN DAN MINUMAN"<<endl;
-    cout<<"                                     BIG BUNS BURGER"<<endl;
+    cout<<"                                     BIGBUNS KING BURGER"<<endl;
     cout<<"                            Jln. Raya Uluwatu No. 2 Jimbaran"<<endl;
     cout<<"****************************************************************************************"<<endl;
     cout<<"|| 1. Spicy Crispy Chicken       Rp 55.000  || 7.  Mineral Water            Rp 5.500  || \n";
