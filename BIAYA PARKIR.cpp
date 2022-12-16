@@ -9,15 +9,15 @@ int hitung_biaya_parkir (int harga, int jam_berikutnya){
 
 void pilihan_kendaraan(){
 	cout<<"********************************************"<<endl;
-	cout<<"               TARIF PARKIR "<<endl;
-    cout<<"             BIG BUNS BURGER"<<endl;
-    cout<<"    Jln. Raya Uluwatu No. 2 Jimbaran"<<endl;
-    cout<<"********************************************\n"<<endl;
-    cout<<"Jenis Kendaran : "<<endl;
-    cout<<"1. Motor"<<endl;
-    cout<<"2. Mobil"<<endl;
-    cout<<"3. Bus"<<endl;
-    cout<<endl;
+	cout<<"               TARIF BIAYA PARKIR "<<endl;
+    	cout<<"                BIG BUNS BURGER"<<endl;
+    	cout<<"    Jln. Raya Uluwatu No. 2 Jimbaran"<<endl;
+    	cout<<"********************************************\n"<<endl;
+    	cout<<"Jenis Kendaran : "<<endl;
+   	cout<<"1. Motor"<<endl;
+    	cout<<"2. Mobil"<<endl;
+   	cout<<"3. Bus"<<endl;
+    	cout<<endl;
 }
 
 int main(){
